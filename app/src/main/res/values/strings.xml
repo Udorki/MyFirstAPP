@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Encyclopedia</string>
+    <string name="textTile">Encyclopedia</string>
+    <string name="buttonProve">Button prove</string>
+    <string name="textViewProve">Text view prove</string>
+    <string name="imageButtonLion">Lion/Lioness</string>
+    <string name="imageButtonBlueArrowFrog">Blue Arrow Frog</string>
+    <string name="imageButtonEmperorPenguin">Emperor Penguin</string>
+    <string name="imageButtonLeatherbackTurtle">Leatherback Turtle</string>
+    <string name="imageButtonOrchidMantis">Orchid Mantis</string>
+    <string name="imageButtonWhiteShark">White Shark</string>
+    <string name="textViewData1">Name:</string>
+    <string name="textViewData2">Weight:</string>
+    <string name="textViewData3">Measure:</string>
+    <string name="textViewData4">Average age:</string>
+    <string name="textViewData5">Class:</string>
+    <string name="textViewData6">Family:</string>
+    <string name="imageLionLioness">Lion/Lioness</string>
+    <string name="imageBlueArrowFrog">Blue Arrow Frog</string>
+    <string name="imageEmperorPenguin">Emperor Penguin</string>
+    <string name="imageLeatherbackTurtle">Leatherback Turtle</string>
+    <string name="imageOrchidMantis">Orchid Mantis</string>
+    <string name="imageWhiteShark">White Shark</string>
+    <string name="buttonSearch">Search by class</string>
+    <string name="editTextSearch">Select class</string>
+    <string name="buttonConfirm">Search</string>
+    <string name="textViewShow">Results</string>
+    <string name="requireField">Field required</string>
+</resources>
